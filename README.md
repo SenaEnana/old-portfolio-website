@@ -1,3 +1,4 @@
-# personal-portfolio-website
-my personal portfolio website
+# old-portfolio-website
+my personal portfolio website developed with ReactJS 
+Not deployed
 
