@@ -13,3 +13,11 @@ This repository contains the source code for my personal portfolio website built
 - Contact information
 - Clean and reusable React components
 
+## Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS 
+
