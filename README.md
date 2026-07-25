@@ -29,3 +29,7 @@ The goal of this project was to build my first personal portfolio website and cr
 
 This project is no longer actively maintained. A newer and improved version has been built and deployed using Next.js.
 
+## Future Improvements
+
+This React version has been archived for reference. Future enhancements are being made in the newer Next.js portfolio.
+
