@@ -21,3 +21,7 @@ This repository contains the source code for my personal portfolio website built
 - CSS3
 - Tailwind CSS 
 
+## Purpose
+
+The goal of this project was to build my first personal portfolio website and create a central place where recruiters, employers, and collaborators could learn more about my work and technical skills.
+
