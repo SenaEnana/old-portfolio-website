@@ -25,3 +25,7 @@ This repository contains the source code for my personal portfolio website built
 
 The goal of this project was to build my first personal portfolio website and create a central place where recruiters, employers, and collaborators could learn more about my work and technical skills.
 
+## Status
+
+This project is no longer actively maintained. A newer and improved version has been built and deployed using Next.js.
+
