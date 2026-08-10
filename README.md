@@ -33,7 +33,7 @@ This project is no longer actively maintained. A newer and improved version has 
 
 This React version has been archived for reference. Future enhancements are being made in the newer Next.js portfolio.
 
-## Author
+## 👨‍💻 Author
 
 **Sena Adane**  
 Software Engineer
