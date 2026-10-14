@@ -16,6 +16,7 @@ This repository contains the source code for my personal portfolio website built
 ## Technologies Used
 
 - React.js
+- Vite
 - JavaScript (ES6+)
 - HTML5
 - CSS3
