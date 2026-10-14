@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Personal Portfolio Website(Archived Project)
 
 This repository contains the source code for my personal portfolio website built with React.js. It was developed as my first portfolio project to showcase my skills, projects, education, and professional experience as a Software Engineer.
 
@@ -16,6 +16,7 @@ This repository contains the source code for my personal portfolio website built
 ## Technologies Used
 
 - React.js
+- Vite
 - JavaScript (ES6+)
 - HTML5
 - CSS3
@@ -37,3 +38,5 @@ This React version has been archived for reference. Future enhancements are bein
 
 **Sena Adane**  
 Software Engineer
+
+Thank you for visiting my profile!

@@ -3,7 +3,6 @@ const router = express.Router();
 const cors = require("cors");
 const nodemailer = require("nodemailer");
 
-// server used to send send emails
 const app = express();
 app.use(cors());
 app.use(express.json());
