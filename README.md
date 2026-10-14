@@ -38,3 +38,5 @@ This React version has been archived for reference. Future enhancements are bein
 
 **Sena Adane**  
 Software Engineer
+
+Thank you for visiting my profile!
